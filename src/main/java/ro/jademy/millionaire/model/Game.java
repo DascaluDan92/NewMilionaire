@@ -54,7 +54,7 @@ public class Game {
         // show welcome screen
         // optionally: show rules (rounds, lifelines, etc) & commands
 
-        // show current level question
+        // show current level questi  on
         // read command from player
         //     - if lifeline -> apply lifeline
         //     - if end game -> end game
